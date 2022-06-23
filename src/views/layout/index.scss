@@ -1,0 +1,23 @@
+.el-aside {
+  width: auto;
+}
+.el-header {
+  padding: 0;
+  height: auto;
+}
+.el-container {
+  .main-box {
+    background: #fff;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    overflow: auto;
+    overflow-x: hidden!important;
+    border-radius: 4px;
+    box-shadow: 0 2px 12px #0000001a;
+  }
+}
+.el-main {
+  background: #f0f2f5;
+  padding: 10px 13px;
+}

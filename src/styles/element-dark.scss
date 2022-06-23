@@ -1,0 +1,7 @@
+html.dark {
+  --geeker-main-bg-color: #0d0d0d;
+
+  .el-main {
+    background-color: var(--geeker-main-bg-color) !important;
+  }
+}
